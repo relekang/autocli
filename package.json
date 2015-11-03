@@ -1,6 +1,6 @@
 {
   "name": "autocli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generic cli interface for node packages",
   "main": "index.js",
   "dependencies": {},
