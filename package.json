@@ -1,0 +1,27 @@
+{
+  "name": "autocli",
+  "version": "0.0.0",
+  "description": "Generic cli interface for node packages",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "autocli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relekang/autocli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Rolf Erik Lekang <me@rolflekang.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relekang/autocli/issues"
+  },
+  "homepage": "https://github.com/relekang/autocli#readme"
+}
