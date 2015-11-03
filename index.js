@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 
 if (process.argv.length < 4) {
-  console.error("Needs at least 2 arguments");
+  console.error(
+    'Needs at least 2 arguments.\n' +
+    'Usage: autocli <package> <function> <...arguments>'
+  );
   process.exit(1);
 }
 
